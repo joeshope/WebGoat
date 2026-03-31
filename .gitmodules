@@ -1,3 +1,6 @@
 [submodule "submodule_goof"]
 	path = submodule_goof
 	url = https://github.com/joeshope/goof
+[submodule "submodule_juice"]
+	path = submodule_juice
+	url = https://github.com/joeshope/juice-shop-goof
