@@ -1,0 +1,3 @@
+[submodule "submodule_goof"]
+	path = submodule_goof
+	url = https://github.com/joeshope/goof
